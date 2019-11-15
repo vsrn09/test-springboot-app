@@ -1,7 +1,7 @@
 {
   "name": "template-java-spring",
   "version": "1.0.0",
-  "description": "Spring Boot application",
+  "description": "Spring Boot application to test pipeline",
   "main": "index.js",
   "scripts": {
     "build": "./gradlew assemble",
